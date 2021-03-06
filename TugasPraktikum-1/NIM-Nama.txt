@@ -1,0 +1,9 @@
+1901189 - Hasna Nadaa Fida Karima 
+
+Saya Hasna Nadaa Fida Karima mengerjakan TP1 dalam mata kuliah DPBO
+untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah di spesifikasikan.
+Aamiin.
+
+Kesulitan : dalam tools nya mungkin ya agak sedikit bingung, berbeda dengan desain web, dan untuk fitur pencarian agak sulit untuk memilih tools dan kodingannya 
+hal baru : tools yang banyak dan kodingan kodingan yang baru 
+fitur yang sudah : Home, Login, Web Catalog, Dropdown, Logout, Pembelian Harga, 
